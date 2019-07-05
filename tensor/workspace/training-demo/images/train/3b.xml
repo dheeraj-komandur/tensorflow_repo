@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3b.jpg</filename>
+	<path>C:\Users\test\Desktop\Tensorflow\workspace\training-demo\images\train\3b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hood Open</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>160</ymin>
+			<xmax>304</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>
